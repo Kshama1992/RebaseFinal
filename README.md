@@ -1,3 +1,4 @@
 # RebaseFinal
 
 newB
+newC
